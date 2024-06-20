@@ -1,1 +1,1 @@
-# React
+O código criado faz parte de um sistema de cadastro e listagem para uma loja de doces, neste sistema é possível colocar o nome, descrição, peso e preço do produto. Logo abaixo está a lista de produtos cadastrados.
